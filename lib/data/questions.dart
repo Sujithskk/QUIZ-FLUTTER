@@ -19,4 +19,22 @@ const questions = [
       'Charles Babbage',
     ],
   ),
+  QuizQuestions('What is the capital of France?', [
+    'Paris',
+    ' Jupiter',
+    ' Lisa',
+    'Japan',
+  ]),
+  QuizQuestions(' What is the chemical symbol for water?', [
+    'H2O',
+    ' Jupiter',
+    ' Lisa',
+    'Japan',
+  ]),
+  QuizQuestions('What is the largest planet in our solar system?', [
+    ' Jupiter',
+    'Components',
+    'Blocks',
+    'Functions',
+  ]),
 ];
